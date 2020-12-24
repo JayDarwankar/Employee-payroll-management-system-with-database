@@ -1,0 +1,17 @@
+	Tata Consulant Services
+Address:Shivaji square tilak ward warora
+--------------------------------------------------------
+Employee ID		:	154
+Salary Of		:	june-2005
+Generated On		:	23-12-20
+--------------------------------------------------------
+Total Days		:	31
+Total Present		:	31-2
+Total Absent		:	2
+Convence		:	5000
+Medical		:	1500
+PF		:	2000
+Gross Salary		:	35000
+Net Salary		:	34241.94
+--------------------------------------------------------
+This is computer generated slip, not required any signature
